@@ -1,4 +1,3 @@
-#EXTM3U mgistv.m3u
 #EXTINF:-1 tvg-ID="1-1" tvg-name="NFL NETWORK HD" tvg-logo="http://haibao.magstv.com/data/usee/space/e54875d03dd74c2e957914ac331b478f.jpg" group-title="NFL PASS",NFL NETWORK HD
 http://98.96.248.129:36448/1ym7t6w4btrkqkmzqvl66sznawiug9u3ppecu94tmta4p2i2stol6qilfv84lvd/index.m3u8?un=leorodhen1&tm=1665723510&sn=XKo0NtZRehNf9MzUhe6cxZwtxWw
 #EXTINF:-1 tvg-ID="1-2" tvg-name="NFL PASS 13 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/25f4737f953a45d88b177c1d3e5b92b8.jpg" group-title="NFL PASS",NFL PASS 13 HD
